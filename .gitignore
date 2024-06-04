@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+.DS_Store
+
+#ide
+.run/
+/.idea
+
+# Test Binary
+*.test
+
+#env
+.env
